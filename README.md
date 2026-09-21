@@ -75,7 +75,7 @@ Setup instructions will be added once the project scaffold is in place.
 
 ## Documentation
 
-- [Product Requirements Document]([[docs/PRD.pdf](https://docs.google.com/document/d/13xlAr6QoSQAM0cIWN9qo-bKA4Z-xhQ8O04cmKKHForY/edit?tab=t.0)](https://docs.google.com/document/d/1kqvSEsAeGweak-o0OGRiLmETRWzVcMq9bzA_ZWNX9uw/edit?usp=sharing))
+- [Product Requirements Document](https://docs.google.com/document/d/e/2PACX-1vTF4P6Ju1lP0mvIAJSljJAq6cFtyufw1S1dZZ6XCKg1LlbRy6coFkEhJnuDd6WUpVqDQOue0fwagkWa/pub)
 
 ## License
 
