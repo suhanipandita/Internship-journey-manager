@@ -1,4 +1,4 @@
-#Week 1
+# Week 1
 
 ## Tasks done
 - created a kanban through github projects 
